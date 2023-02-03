@@ -2,10 +2,4 @@
 
 - A passionate Full Stack developer
 - Portfolio: [jeremycote.github.io/Portfolio](https://jeremycote.github.io/Portfolio)
-
-<br>
-<div align='center'>
-    <a href="https://www.linkedin.com/in/jeremy-cote-24b100246/" target="_blank">
-        <img src="https://img.shields.io/badge/linkedin:-Jeremy Cote-j.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-    </a>
-</div
+- LinkedIn: [www.linkedin.com/in/jeremy-cote-24b100246/](https://www.linkedin.com/in/jeremy-cote-24b100246/)
